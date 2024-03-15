@@ -7,7 +7,7 @@ Source of data
 https://www.kaggle.com/datasets/mrferozi/loan-data-for-dummy-bank
 
 Knime hub Link
-https://hub.knime.com/prityush_010/spaces/Public/Customer%20Segmentation%20(Loan%20Data)%20on%20the%20basis%20of%20Risk~0fCezZxiuF6fvJqL/current-state
+https://hub.knime.com/prityush_010/spaces/Public/Customer%20Segmentation~dTxJTpbeaK9jOiNq/current-state
 
 Acknowledgement
 
